@@ -290,7 +290,7 @@ Semiconductor-Manufacturing-Failure-Prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Karthikd1818/Semiconductor-Manufacturing-Failure-Prediction.git
 ```
 
 Navigate into the project:
@@ -448,4 +448,5 @@ Possible future improvements include:
 Aspiring Data Scientist
 
 GitHub: https://github.com/Karthikd1818
+
 LinkedIn: https://www.linkedin.com/in/karthik02052005/
